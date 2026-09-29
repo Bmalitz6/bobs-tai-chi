@@ -1,0 +1,8 @@
+{
+  "name": "Bob's Tai Chi",
+  "short_name": "Tai Chi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5f1",
+  "theme_color": "#183f35"
+}
